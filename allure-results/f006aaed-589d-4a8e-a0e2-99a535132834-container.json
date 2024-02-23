@@ -1,0 +1,1 @@
+{"uuid":"f006aaed-589d-4a8e-a0e2-99a535132834","name":"TestRepo.LoginTestCases.GearUp","children":["e3fa1edb-5722-4e0c-9b37-dddfcf9dcc33"],"description":"","befores":[{"name":"GearUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1706795232813,"stop":1706795275675}],"afters":[],"start":1706795232812,"stop":1706795275676}
