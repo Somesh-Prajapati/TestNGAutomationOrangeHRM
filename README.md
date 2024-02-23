@@ -1,3 +1,4 @@
 # Java(Core)
 # Selenium
-#TestNG
+# TestNG
+# Allure Reporting
